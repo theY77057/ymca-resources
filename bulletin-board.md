@@ -19,7 +19,7 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 ### using Google Maps (?hl=en)
 
 ## Rental Assistance
-### [Emergency Assistance Matrix](EMERGENCY ASSISTANCE MATRIX update.xlsx)
+### [Emergency Assistance Matrix](https://github.com/ColtonGrainger/ymca-resources/blob/master/materials/EMERGENCY ASSISTANCE MATRIX update.xlsx)
 ### Society of St. Vincent de Paul
 ### Islamic Society of Greater Houston
 ### Wheeler & First Baptist Church
