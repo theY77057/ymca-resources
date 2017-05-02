@@ -1,6 +1,6 @@
 # SAS Resource Bulletin Board
 
-Feel free to add something or take it away! You'll need a [GitHub](https://github.com/) account. It's not too hard to use. Here's a [tutorial](https://guides.github.com/activities/hello##world/).
+This is an open source bulletin board! To edit this, you'll need a [GitHub](https://github.com/) account. It's not too hard to use. Here's a [tutorial](https://guides.github.com/activities/hello##world/).
 	
 ## Healthcare
 ### Medicaid
@@ -19,7 +19,7 @@ Feel free to add something or take it away! You'll need a [GitHub](https://githu
 ### using Google Maps (?hl=en)
 
 ## Rental Assistance
-### [Emergency Assistance Matrix]()
+### [Emergency Assistance Matrix](EMERGENCY ASSISTANCE MATRIX update.xlsx)
 ### Society of St. Vincent de Paul
 ### Islamic Society of Greater Houston
 ### Wheeler & First Baptist Church
