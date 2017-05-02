@@ -19,7 +19,7 @@ Feel free to add something or take it away! You'll need a [GitHub](https://githu
 ### using Google Maps (?hl=en)
 
 ## Rental Assistance
-### Emergency Assistance Matrix
+### [Emergency Assistance Matrix]()
 ### Society of St. Vincent de Paul
 ### Islamic Society of Greater Houston
 ### Wheeler & First Baptist Church
