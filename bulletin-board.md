@@ -13,7 +13,7 @@ Feel free to add something or take it away! You'll need a [GitHub](https://githu
 ## Transportation
 ### MTM
 ### METROLift
-### Discounted Q### Cards
+### Discounted Q-Cards
 ### Bus Education
 ### Bus Maps
 ### using Google Maps (?hl=en)
@@ -43,9 +43,8 @@ Feel free to add something or take it away! You'll need a [GitHub](https://githu
 ## Continuing Education
 ### ESL Classes
 ### Citizenship Classes
-### Pre### GED & GED Classes
+### Pre-GED & GED Classes
 
 ## Medical Bill Reconcilliation
 ### template for calling
 ### Charity Care Programs
-
