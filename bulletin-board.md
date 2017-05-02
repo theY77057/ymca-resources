@@ -1,4 +1,4 @@
-#Healthcare
+# Healthcare
 -Medicaid
 -STAR Plans
 -STAR PLUS Plans
@@ -6,7 +6,7 @@
 -County Indigent Health Care
 -Marketplace Enrollment
 
-#Transportation
+# Transportation
 -MTM
 -METROLift
 -Discounted Q-Cards
@@ -14,33 +14,33 @@
 -Bus Maps
 -using Google Maps (?hl=en)
 
-#Rental Assistance
+# Rental Assistance
 -Emergency Assistance Matrix
 -Society of St. Vincent de Paul
 -Islamic Society of Greater Houston
 -Wheeler & First Baptist Church
 
-#Eyeglasses
+# Eyeglasses
 -OneSight Program
 
-#Dental 
+# Dental 
 -Low cost dental clinics
 
-#Primary Care Providers
+# Primary Care Providers
 -Agenda for discussion
 -Harris Health Locations
 -Legacy Community Locations
 
-#Food Pantries
+# Food Pantries
 -ECHOS
 -GCCSA
 -Houston Foodbank
 
-#Continuing Education
+# Continuing Education
 -ESL Classes
 -Citizenship Classes
 -Pre-GED & GED Classes
 
-#Medical Bill Reconcilliation
+# Medical Bill Reconcilliation
 -template for calling
 -Charity Care Programs
