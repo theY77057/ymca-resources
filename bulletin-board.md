@@ -53,3 +53,17 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 ## Medical Bill Reconcilliation
 -  template for calling
 -  Charity Care Programs
+
+## Shelters
+- Men's Shelters
+	- Star of Hope Men's Shelter & Development Center
+		- Address: 1811 Ruiz St, Houston, TX 77002
+		- Phone: 713 227 8900
+	- Salvation Army
+		- Address: 2407 N Main St, Houston, TX 77009
+		- Phone: 713 224 2875
+		- Hours: 8AM–4:30PM
+	- Casa Juan Diego
+		- Address: 4811 Lillian Street, Houston, TX 77007
+		- Phone: 713 869 7376
+		- Hours: 9AM–4PM
