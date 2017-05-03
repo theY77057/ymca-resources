@@ -70,3 +70,9 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 		- Address: 4811 Lillian Street, Houston, TX 77007
 		- Phone: 713 869 7376
 		- Hours: 9AM–4PM
+- Cancer Care Centers
+	- [The Ballard House](https://www.theballardhouse.org/)
+		- [Application](https://www.theballardhouse.org/staying-with-us/apply-for-housing/)
+		- Address: 21421 Cinco Park Road Katy, Texas 77450
+		- Phone: 281 717 4670 
+		- Contact: Melissa
