@@ -9,7 +9,7 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 - Gold Card
 - County Indigent Health Care
 - HealthCare.gov (from the [Affordable Care Act](https://www.healthcare.gov/glossary/affordable-care-act/))
-	- see also new information on the [American Healthcare Act](https://en.wikipedia.org/wiki/American_Health_Care_Act_of_2017#Comparison_between_ACA_and_AHCA)
+	- see also new information on the [American Health Care Act](https://en.wikipedia.org/wiki/American_Health_Care_Act_of_2017#Comparison_between_ACA_and_AHCA)
 
 ## Transportation
 - MTM
