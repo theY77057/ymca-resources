@@ -14,7 +14,7 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 ## Transportation
 - MTM
 	- Non Emergency Medical Transportation for *recipients of Medicaid*
-	- a healthcare provider *must* to complete a [statement of medical need](materials/statement-of-need.pdf)
+	- a healthcare provider *must* to complete a [statement of medical need](materials/statement-of-medical-need.pdf)
 	- You can use a [table in English](materials/calling-a-taxi-cheat-sheet.xlsx) or [Spanish](https://github.com/ColtonGrainger/ymca-resources/blob/master/materials/calling-a-taxi-cheat-sheet-spanish.xlsx) for the phone call.
 	- Phone: 855 687 4786
 	- Statement of Medical Need
