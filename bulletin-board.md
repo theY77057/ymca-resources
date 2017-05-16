@@ -16,8 +16,8 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 	- You can use a [table in English](https://github.com/ColtonGrainger/ymca-resources/blob/master/materials/calling-a-taxi-cheat-sheet.xlsx) or [Spanish](https://github.com/ColtonGrainger/ymca-resources/blob/master/materials/calling-a-taxi-cheat-sheet-spanish.xlsx) for the phone call.
 	- Phone: 855 687 4786
 	- Statement of Medical Need
-		- [frontpage](http://i63.tinypic.com/b55qnb.jpg)
-		- [coversheet](http://i63.tinypic.com/b55qnb.jpg)
+		- ![frontpage](https://github.com/ColtonGrainger/ymca-resources/blob/master/materials/mtm-statement-blank.tif)
+		- ![coversheet](https://github.com/ColtonGrainger/ymca-resources/blob/master/materials/mtm-statement-2.tif)
 - METROLift
 	- [Eligibility](http://www.ridemetro.org/Pages/MLEligibility.aspx)
 	- [Application](https://www.ridemetro.org/MetroPDFs/News/Application-for-METROLift-Service.pdf)
