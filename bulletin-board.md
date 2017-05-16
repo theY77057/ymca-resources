@@ -13,8 +13,11 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 ## Transportation
 - MTM
 	- Non Emergency Medical Transportation for *recipients of Medicaid*
-	- You can use a [table in English](../blob/master/materials/calling-a-taxi-cheat-sheet.xlsx) or [Spanish](../blob/master/materials/calling-a-taxi-cheat-sheet-spanish.xlsx) for the phone call.
+	- You can use a [table in English](https://github.com/ColtonGrainger/ymca-resources/blob/master/materials/calling-a-taxi-cheat-sheet.xlsx) or [Spanish](https://github.com/ColtonGrainger/ymca-resources/blob/master/materials/calling-a-taxi-cheat-sheet-spanish.xlsx) for the phone call.
 	- Phone: 855 687 4786
+	- Statement of Medical Need
+		- [frontpage](http://i63.tinypic.com/b55qnb.jpg)
+		- [coversheet](http://i63.tinypic.com/b55qnb.jpg)
 - METROLift
 	- [Eligibility](http://www.ridemetro.org/Pages/MLEligibility.aspx)
 	- [Application](https://www.ridemetro.org/MetroPDFs/News/Application-for-METROLift-Service.pdf)
