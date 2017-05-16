@@ -17,7 +17,9 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 	- Phone: 855 687 4786
 	- Statement of Medical Need
 		- [frontpage](M:\resource-binder\mtm-statement-blank.tif)
+		- M:\resource-binder\mtm-statement-blank.tif
 		- [coversheet](M:\resource-binder\mtm-statement-2.tif)
+		- M:\resource-binder\mtm-statement-2.tif
 - METROLift
 	- [Eligibility](http://www.ridemetro.org/Pages/MLEligibility.aspx)
 	- [Application](https://www.ridemetro.org/MetroPDFs/News/Application-for-METROLift-Service.pdf)
