@@ -16,6 +16,8 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 
 - [Harris Health Financial Assistance Program](https://www.harrishealth.org/en/patients/access-care/eligibility-card/pages/default.aspx)  (known colloquially as the "Gold Card") is a healthcare discount.
 - County Indigent Health Care
+	- The [income requirements](https://www.dshs.texas.gov/cihcp/eligibility.shtm) are steep.
+	- *Encourage your clients to live in Harris County.*
 - HealthCare.gov (from the [Affordable Care Act](https://www.healthcare.gov/glossary/affordable-care-act/))
 	- see also new information on the [American Health Care Act](https://en.wikipedia.org/wiki/American_Health_Care_Act_of_2017#Comparison_between_ACA_and_AHCA)
 
