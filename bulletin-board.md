@@ -15,6 +15,11 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 ![Map of STAR plans in Greater Harris County](materials/medicaid-harris.PNG)
 
 - [Harris Health Financial Assistance Program](https://www.harrishealth.org/en/patients/access-care/eligibility-card/pages/default.aspx)  (known colloquially as the "Gold Card") is a healthcare discount.
+	- [Applications](https://www.harrishealth.org/SiteCollectionDocuments/eligibility/applicant-forms/English/application-instructions-english.pdf) are mailed to PO Box 300488 Houston TX 77230
+	- proof of income
+	- proof of address
+	- immigration status
+	- 
 - County Indigent Health Care
 	- The [income requirements](https://www.dshs.texas.gov/cihcp/eligibility.shtm) are steep.
 	- *Encourage your clients to live in Harris County.*
