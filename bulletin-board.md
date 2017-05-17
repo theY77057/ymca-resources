@@ -14,7 +14,7 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 	- [STAR+PLUS](https://hhs.texas.gov/services/questions-about-your-benefits#star-kids) Plans
 		- [Amerigroup](https://www.myamerigroup.com/TX/Pages/star-plus.aspx)
 		- [Molina](http://www.molinahealthcare.com/members/tx/en-US/hp/medicaid/starplus/Pages/starplus.aspx)
-		- [UnitedHealthcare][http://www.uhccommunityplan.com/tx/medicaid/star_plus.html)
+		- [UnitedHealthcare](http://www.uhccommunityplan.com/tx/medicaid/star_plus.html)
 	- [STAR Kids](https://hhs.texas.gov/services/questions-about-your-benefits#star-kids) Plans
 		- [Amerigroup](https://myamerigroup.com/TX/Pages/star-kids.aspx)
 		- [Texas Children's](http://www.texaschildrenshealthplan.org/what-we-offer/star-kids)
