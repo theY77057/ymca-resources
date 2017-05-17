@@ -3,7 +3,8 @@
 This is an open source bulletin board! To edit this, you'll need a [GitHub](https://github.com/) account. It's not too hard to use. Here's a [tutorial](https://guides.github.com/activities/hello##world/).
 	
 ## Healthcare
-- Medicaid (in the (Harris County Service Area)[materials/medicaid-harris.PNG])
+- Medicaid
+![Harris County Service Area](materials/medicaid-harris.PNG)
 	- [Traditional Medicaid](https://hhs.texas.gov/services/questions-about-your-benefits#traditional-medicaid)
 	- [STAR](https://hhs.texas.gov/services/questions-about-your-benefits#star) Plans
 		- [Amerigroup](https://www.myamerigroup.com/TX/Pages/star.aspx)
