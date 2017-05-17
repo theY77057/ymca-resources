@@ -3,6 +3,7 @@
 This is an open source bulletin board! To edit this, you'll need a [GitHub](https://github.com/) account. It's not too hard to use. Here's a [tutorial](https://guides.github.com/activities/hello##world/).
 	
 ## Healthcare
+- Health C
 - Medicaid
 - STAR Plans
 - STAR PLUS Plans
@@ -42,10 +43,10 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 - Low cost dental clinics
 
 ## Primary Care Providers
+- [PCP Map around YMCA International](https://drive.google.com/open?id=1kk9yn6-4nifHLIf2tGYbW_7PiYo&usp=sharing)
 - Agenda for discussion
 - Harris Health Locations
 - Legacy Community Locations
-
 
 ## Food Pantries
 - ECHOS
