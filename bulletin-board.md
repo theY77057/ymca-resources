@@ -10,8 +10,9 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 		- [Amerigroup](https://www.myamerigroup.com/TX/Pages/star.aspx), [Community Health Choice](https://www.communitycares.com/en-us/Plans-Benefits/Texas-STAR-Plan), [Molina](http://www.molinahealthcare.com/members/tx/en-US/hp/medicaid/star/Pages/star.aspx), [Texas Children's](http://www.texaschildrenshealthplan.org/what-we-offer/star), [UnitedHealthcare](http://www.uhccommunityplan.com/tx/medicaid/star/benefits.html)
 	- STAR+PLUS (disabled adults)
 		- [Amerigroup](https://www.myamerigroup.com/TX/Pages/star-plus.aspx), [Molina](http://www.molinahealthcare.com/members/tx/en-US/hp/medicaid/starplus/Pages/starplus.aspx), [UnitedHealthcare](http://www.uhccommunityplan.com/tx/medicaid/star_plus.html)
-	- STAR Kids (disable persons under 21 years old)
+	- STAR Kids (disabled persons under 21 years old)
 		- [Amerigroup](https://myamerigroup.com/TX/Pages/star-kids.aspx), [Texas Children's](http://www.texaschildrenshealthplan.org/what-we-offer/star-kids), [UnitedHealthcare](http://www.uhccommunityplan.com/tx/medicaid/star_kids.html)
+	- ![Map of STAR plans in Greater Harris County](materials/medicaid-harris.PNG)
 - Gold Card
 - County Indigent Health Care
 - HealthCare.gov (from the [Affordable Care Act](https://www.healthcare.gov/glossary/affordable-care-act/))
