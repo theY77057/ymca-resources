@@ -88,10 +88,19 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 		- Address: 2407 N Main St, Houston, TX 77009
 		- Phone: 713 224 2875
 		- Hours: 8AM–4:30PM
+- Shelters for Hispanic Immigrants
 	- Casa Juan Diego
 		- Address: 4811 Lillian Street, Houston, TX 77007
 		- Phone: 713 869 7376
 		- Hours: 9AM–4PM
+- Domestic Violence Shelters
+	- [Shifa Women’s Center](www.shifausahouston.org)
+		- Women and children (boys up to the age of 12)
+		- transitional shelter, 90 day max
+		- Phone: 713 981 7563
+		- Hours: Monday-Friday, 9AM-5PM
+		- Contact: Ashley Burnett
+		- Email: [aburnett.shifa@gmail.com](mailto:aburnett.shifa@gmail.com)
 - Cancer Care Centers
 	- [The Ballard House](https://www.theballardhouse.org/)
 		- [Application](https://www.theballardhouse.org/staying-with-us/apply-for-housing/)
@@ -101,7 +110,7 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 
 ## Nutrition
 ### Supplemental Nutritional Assistance Program
-- [SNAP](https://yourtexasbenefits.hhsc.texas.gov/programs/snap) (colloquiually "Food Stamps") is a [federal program](https://www.fns.usda.gov/snap/supplemental-nutrition-assistance-program-snap) administered by Texas Health and Human Services.
+- [SNAP](https://yourtexasbenefits.hhsc.texas.gov/programs/snap) (colloquially "Food Stamps") is a [federal program](https://www.fns.usda.gov/snap/supplemental-nutrition-assistance-program-snap) administered by Texas Health and Human Services.
 
 ### Food Pantries
 - ECHOS
