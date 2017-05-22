@@ -30,8 +30,12 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 
 ### Refugee Health Profiles
 - [CDC Refugee Health Profiles](https://www.cdc.gov/immigrantrefugeehealth/profiles/index.html)
+	- "key health and cultural information about specific refugee groups resettling in the United States"
 - [NPCT Country Guides](https://gulfcoastjewishfamilyandcommunityservices.org/refugee/resources/country-condition-reports/)
-
+	- brief overviews of each country
+		- current healthcare systems
+		- common perceptions and responses to adverse mental health symptoms
+		- typical community support networks
 ## Transportation
 - MTM
 	- Non Emergency Medical Transportation for *recipients of Medicaid*
