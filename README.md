@@ -12,7 +12,7 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 
 ### Healthcare Coverage
 - [Medicaid](https://hhs.texas.gov/services/questions-about-your-benefits) is a [federal program](https://en.wikipedia.org/wiki/Medicaid) administered by Texas Health and Human Services.
-	- Traditional Medicaid
+	- Traditional Medicaid & Children's Medicaid
 		- [Texas Medicaid & Healthcare Partnership](http://www.tmhp.com/Pages/default.aspx)
 	- STAR (pregnant women, adults caring for children)
 		- [Amerigroup](https://www.myamerigroup.com/TX/Pages/star.aspx), [Community Health Choice](https://www.communitycares.com/en-us/Plans-Benefits/Texas-STAR-Plan), [Molina](http://www.molinahealthcare.com/members/tx/en-US/hp/medicaid/star/Pages/star.aspx), [Texas Children's](http://www.texaschildrenshealthplan.org/what-we-offer/star), [UnitedHealthcare](http://www.uhccommunityplan.com/tx/medicaid/star/benefits.html)
@@ -21,6 +21,13 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 	- STAR Kids (disabled persons under 21 years old)
 		- [Amerigroup](https://myamerigroup.com/TX/Pages/star-kids.aspx), [Texas Children's](http://www.texaschildrenshealthplan.org/what-we-offer/star-kids), [UnitedHealthcare](http://www.uhccommunityplan.com/tx/medicaid/star_kids.html)
 ![Map of STAR plans in Greater Harris County](materials/medicaid-harris.PNG)
+
+- Refugee Medical Assistance (RMA)
+	- Texas Health and Human Services no longer administers RMA.
+	- USCRI contracted [Point Comfort Underwriters](https://rma.pointcomfort.com/#login) (PCU) as the new RMA vendor.
+		- [RMA Handbook](https://rma.pointcomfort.com/files/RMA%20User%20Guide.pdf)
+		- [Frequently Asked Questions](http://refugees.org/wp-content/uploads/2017/02/Texas-Refugee-Medical-Assistance-Frequently-Asked-Questions.pdf)
+		- [Contact Sheet](\materials\texas-rma-contacts.pdf)
 
 - [Harris Health Financial Assistance Program](https://www.harrishealth.org/en/patients/access-care/eligibility-card/pages/default.aspx)  (known colloquially as the "Gold Card") is a healthcare discount.
 	- [Applications](https://www.harrishealth.org/SiteCollectionDocuments/eligibility/applicant-forms/English/application-instructions-english.pdf) are mailed to PO Box 300488 Houston TX 77230
