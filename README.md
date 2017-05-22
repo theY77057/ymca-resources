@@ -94,7 +94,7 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 		- Phone: 713 869 7376
 		- Hours: 9AM–4PM
 - Domestic Violence Shelters
-	- [Shifa Women’s Center](www.shifausahouston.org)
+	- [Shifa Women’s Center](http://shifausahouston.org/)
 		- Women and children (boys up to the age of 12)
 		- transitional shelter, 90 day max
 		- Phone: 713 981 7563
