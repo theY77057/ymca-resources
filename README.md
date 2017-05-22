@@ -4,7 +4,7 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 
 ## Health
 
-## Primary Care Providers
+### Primary Care Providers
 - [PCP Map around YMCA International](https://drive.google.com/open?id=1kk9yn6-4nifHLIf2tGYbW_7PiYo&usp=sharing)
 - Agenda for discussion
 - Harris Health Locations
@@ -40,7 +40,7 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 ### Dental 
 - Low cost dental clinics
 
-## Medical Bill Reconcilliation
+### Medical Bill Reconcilliation
 - template for calling
 - Charity Care Programs
 
