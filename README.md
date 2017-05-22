@@ -74,7 +74,7 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 - Discounted Q-Cards
 - Bus Education
 - Bus Maps
-	-[Houston METRO Map](https://www.ridemetro.org/MetroPDFs/NBN/New-METRO-System-Map.pdf)
+	- [Houston METRO Map](https://www.ridemetro.org/MetroPDFs/NBN/New-METRO-System-Map.pdf)
 - using Google Maps (in [foreign languages](https://sites.google.com/site/tomihasa/google-language-codes))
 	- An example route in [English](https://www.google.com/maps/dir/YMCA+International+Services+%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%85%D9%87,+6300+Westpark+Dr+%23600,+Houston,+TX+77057%E2%80%AD/Houston+Social+Security+Office,+10703+Stancliff+Rd,+Houston,+TX+77099/@29.7029048,-95.5670929,13z/data=!4m13!4m12!1m5!1m1!1s0x8640c3ca88e98717:0x9f59b67ffa8ce40b!2m2!1d-95.4956358!2d29.7237297!1m5!1m1!1s0x8640e7e4f226fcd9:0x90ae5ae08d489800!2m2!1d-95.5686086!2d29.6583674?hl=en) (just add "?hl=en" to the end of the URL) and in [Farsi](https://www.google.com/maps/dir/YMCA+International+Services+%D8%A7%D9%84%D9%85%D9%86%D8%B8%D9%85%D9%87,+6300+Westpark+Dr+%23600,+Houston,+TX+77057%E2%80%AD%E2%80%AD/Houston+Social+Security+Office,+10703+Stancliff+Rd,+Houston,+TX+77099/@29.7029048,-95.5670929,13z/data=!4m13!4m12!1m5!1m1!1s0x8640c3ca88e98717:0x9f59b67ffa8ce40b!2m2!1d-95.4956358!2d29.7237297!1m5!1m1!1s0x8640e7e4f226fcd9:0x90ae5ae08d489800!2m2!1d-95.5686086!2d29.6583674?hl=fa) (just add "?hl=fa" to he end of the URL). Here's a [list of language codes](https://sites.google.com/site/tomihasa/google-language-codes) to translate google pages.
 
