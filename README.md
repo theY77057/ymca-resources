@@ -27,7 +27,7 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 	- USCRI contracted [Point Comfort Underwriters](https://rma.pointcomfort.com/#login) (PCU) as the new RMA vendor.
 		- [RMA Handbook](https://rma.pointcomfort.com/files/RMA%20User%20Guide.pdf)
 		- [Frequently Asked Questions](http://refugees.org/wp-content/uploads/2017/02/Texas-Refugee-Medical-Assistance-Frequently-Asked-Questions.pdf)
-		- [Contact Sheet](\materials\texas-rma-contacts.pdf)
+		- [Contact Sheet](materials/texas-rma-contacts.pdf)
 
 - [Harris Health Financial Assistance Program](https://www.harrishealth.org/en/patients/access-care/eligibility-card/pages/default.aspx)  (known colloquially as the "Gold Card") is a healthcare discount.
 	- [Applications](https://www.harrishealth.org/SiteCollectionDocuments/eligibility/applicant-forms/English/application-instructions-english.pdf) are mailed to PO Box 300488 Houston TX 77230
