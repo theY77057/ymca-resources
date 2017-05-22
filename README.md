@@ -49,6 +49,7 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 - Society of St. Vincent de Paul
 - Islamic Society of Greater Houston
 - Wheeler & First Baptist Church
+- [Gayl's Legacy Fund](http://www.pinkdoornonprofit.org/glfapplication/) (for women with cancer).
 
 ## Eyeglasses
 - OneSight Program
