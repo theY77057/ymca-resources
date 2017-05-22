@@ -4,10 +4,6 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 
 ## Healthcare
 
-### Profiles
-- [CDC Refugee Health Profiles](https://www.cdc.gov/immigrantrefugeehealth/profiles/index.html)
-- [NPCT Country Guides](https://gulfcoastjewishfamilyandcommunityservices.org/refugee/resources/country-condition-reports/)
-
 ### Healthcare Coverage
 - [Medicaid](https://hhs.texas.gov/services/questions-about-your-benefits) is a [federal program](https://en.wikipedia.org/wiki/Medicaid) administered by Texas Health and Human Services.
 	- Traditional Medicaid
@@ -31,6 +27,10 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 	- *Encourage your clients to live in Harris County.*
 - HealthCare.gov (from the [Affordable Care Act](https://www.healthcare.gov/glossary/affordable-care-act/))
 	- see also new information on the [American Health Care Act](https://en.wikipedia.org/wiki/American_Health_Care_Act_of_2017#Comparison_between_ACA_and_AHCA)
+
+### Refugee Health Profiles
+- [CDC Refugee Health Profiles](https://www.cdc.gov/immigrantrefugeehealth/profiles/index.html)
+- [NPCT Country Guides](https://gulfcoastjewishfamilyandcommunityservices.org/refugee/resources/country-condition-reports/)
 
 ## Transportation
 - MTM
