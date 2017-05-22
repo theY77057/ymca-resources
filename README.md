@@ -115,12 +115,11 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 ### Food Pantries
 - ECHOS
 - GCCSA
-- Houston Foodbank
+- [Houston Foodbank](http://www.houstonfoodbank.org/agency-locator/)
+	- *check the hours and call ahead*
 - [Senior Box Program](http://www.houstonfoodbank.org/programs/senior-box-program/)
 	- [Eligibility](http://www.houstonfoodbank.org/media/93639/Senior%20Box%2012-9-13.pdf)
-	- Locations
-<div class='tableauPlaceholder' id='viz1495493999068' style='position: relative'><noscript><a href='http:&#47;&#47;www.houstonfoodbank.org&#47;programs&#47;senior-box-program&#47;'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;4Y&#47;4YTDTPR53&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='path' value='shared&#47;4YTDTPR53' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;4Y&#47;4YTDTPR53&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1495493999068');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='604px';vizElement.style.height='869px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
-
+	- [Locations](https://public.tableau.com/views/SeniorBoxLocationsforOlderAmericansMonth/Dashboard1?:embed=true&:display_count=no)
 
 ## Education
 ### Continuing Education
