@@ -4,9 +4,9 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 
 ## Healthcare
 
-### Country Profiles
-[CDC Refugee Health Profiles](https://www.cdc.gov/immigrantrefugeehealth/profiles/index.html)
-[NCST Refugee Country Health Guides](https://gulfcoastjewishfamilyandcommunityservices.org/refugee/resources/country-condition-reports/)
+### Profiles
+- [CDC Refugee Health Profiles](https://www.cdc.gov/immigrantrefugeehealth/profiles/index.html)
+- [NPCT Country Guides](https://gulfcoastjewishfamilyandcommunityservices.org/refugee/resources/country-condition-reports/)
 
 ### Healthcare Coverage
 - [Medicaid](https://hhs.texas.gov/services/questions-about-your-benefits) is a [federal program](https://en.wikipedia.org/wiki/Medicaid) administered by Texas Health and Human Services.
