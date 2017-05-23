@@ -133,3 +133,5 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 - ESL Classes
 - Citizenship Classes
 - Pre-GED & GED Classes
+
+(Did Sonia ever call her lawyer?)
