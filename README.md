@@ -134,4 +134,4 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 - Citizenship Classes
 - Pre-GED & GED Classes
 
-(Did Sonia ever call her lawyer?)
+(Did Sonia 832 706 7720 ever call her lawyer?)
