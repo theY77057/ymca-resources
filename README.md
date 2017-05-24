@@ -30,13 +30,27 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 		- [Contact Sheet](materials/texas-rma-contacts.pdf)
 
 - [Harris Health Financial Assistance Program](https://www.harrishealth.org/en/patients/access-care/eligibility-card/pages/default.aspx)  (known colloquially as the "Gold Card") is a healthcare discount.
-	- [Applications](https://www.harrishealth.org/SiteCollectionDocuments/eligibility/applicant-forms/English/application-instructions-english.pdf) are mailed to PO Box 300488 Houston TX 77230
-		- proof of income
-		- proof of address
-		- immigration status
-		- birth certificates for children
+	- [Applications](https://www.harrishealth.org/SiteCollectionDocuments/eligibility/applicant-forms/English/application-instructions-english.pdf) are mailed to P.O. Box 300488 Houston TX 77230
+	- Required Supporting Documents
+		- proof of identity
+			- government issued photo ID
+		- proof of gross income (last 30 days)
+			- statement of support,
+			- wage verification form, or
+			- ALL paystubs dated within 30 days.
+		- proof of residence
+			- lease no older than 1 year or
+			- residence verification form
+		- proof of immigration status
+			- *employment authorization document* or
+			- *permanent resident card*
+		- proof of familial relation (if applicable)
+			- birth certificates for children
+			- declaration of marriage
+			- marriage license
 	- [Harris Health Contact Information](https://www.harrishealth.org/en/contact-us/pages/default.aspx)
 - County Indigent Health Care
+		- Eligibility Office: 713 566 6509, dial 4 then 1.
 	- The [income requirements](https://www.dshs.texas.gov/cihcp/eligibility.shtm) are steep.
 	- *Encourage your clients to live in Harris County.*
 - HealthCare.gov (from the [Affordable Care Act](https://www.healthcare.gov/glossary/affordable-care-act/))
