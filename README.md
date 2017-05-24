@@ -1,6 +1,6 @@
 # Refugee Case Management Bulletin Board
 
-This is an open source bulletin board! To edit this, you'll need a [GitHub](https://github.com/) account. It's not too hard to use. Here's a [tutorial](https://guides.github.com/activities/hello##world/).
+This is an open source bulletin board! To edit this, you'll need a [GitHub](https://github.com/) account. It's not too hard to use. Here's a [tutorial](https://guides.github.com/activities/hello-world/).
 
 # Health
 
