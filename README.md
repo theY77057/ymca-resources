@@ -94,6 +94,14 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 ## Metropolitian Transportation
 ### Discounted Q-Cards
 ### Bus Education
+- [METRO 101: How to Ride the Bus](https://www.youtube.com/watch?v=X0hQ3X8cfFs) (I recommend watching the video on 1.5x playback speed.)
+	- Where do I want to go?
+	- Which route(s) should I take?
+	- How much does it cost to ride?
+	- Where should I board the bus?
+	- How early should I arrive at my stop?
+	- When will I reach my destination?
+
 ### Bus Maps
 - [Houston METRO Map](https://www.ridemetro.org/MetroPDFs/NBN/New-METRO-System-Map.pdf)
 - using Google Maps (in [foreign languages](https://sites.google.com/site/tomihasa/google-language-codes))
