@@ -94,11 +94,11 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 ## Metropolitian Transportation
 ### METRO Bus Education
 - [METRO 101: How to Ride the Bus](https://www.youtube.com/watch?v=X0hQ3X8cfFs)
-- Fares 
 
 [![Q-Card Reader](http://www.ridemetro.org/SiteImage/Fares/QBox-QCard.png)](http://www.ridemetro.org/Pages/FareHowQ.aspx)
-	- **Tap It**: Tap your card on the Q Box to pay for your trip. The screen will show your new balance
-and how many rides you've taken.
+
+- How to use the fare card
+	- **Tap It**: Tap your card on the Q Box to pay for your trip. The screen will show your new balance and how many rides you've taken.
 	- **No Passback**: If you tap your card twice a red light turns on. The screen will read NO PASS BACK. The red light indicates you've already paid for the trip. You will not be charged again if you tap twice.
 	- **Transfers **: Transfers are free and will be recorded automatically on your card. *They are valid for up to three hours.*
 - Route planning (pro tip: use Google Maps)
