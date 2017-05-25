@@ -95,7 +95,7 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 ### METRO Bus Education
 - Introductory Video
 
-[![METRO 101: How to Ride the Bus](http://img.youtube.com/vi/X0hQ3X8cfFs/0.jpg)](https://www.youtube.com/watch?v=X0hQ3X8cfFs)
+![METRO 101: How to Ride the Bus](https://www.youtube.com/watch?v=X0hQ3X8cfFs)
 
 - How to use METRO fare cards
 
