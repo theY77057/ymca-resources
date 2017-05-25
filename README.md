@@ -93,14 +93,17 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 
 ## Metropolitian Transportation
 ### METRO Bus Education
+- Introductory Video
 [![METRO 101: How to Ride the Bus](http://img.youtube.com/vi/X0hQ3X8cfFs/1.jpg)](https://www.youtube.com/watch?v=X0hQ3X8cfFs)
+- How to use METRO fare cards
 [![Q-Card Reader](http://www.ridemetro.org/SiteImage/Fares/QBox-QCard.png)](http://www.ridemetro.org/Pages/FareHowQ.aspx)
-- Where do I want to go?
-- Which route(s) should I take?
-- How much does it cost to ride?
-- Where should I board the bus?
-- How early should I arrive at my stop?
-- When will I reach my destination?
+- Route planning (tip: use Google Maps)
+	- Where do I want to go?
+	- Which route(s) should I take?
+	- How much does it cost to ride? 
+	- Where should I board the bus?
+	- How early should I arrive at my stop?
+	- When will I reach my destination?
 
 ### [Discounted Q-Cards](http://www.ridemetro.org/Pages/FareDiscountedFare.aspx)
 - [Students](http://www.ridemetro.org/Pages/FareStudent.aspx) pay %50
