@@ -58,7 +58,13 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 ### Healthcare through the Affordable Care Act
 - HealthCare.gov (from the [Affordable Care Act](https://www.healthcare.gov/glossary/affordable-care-act/))
 	- be mindful of policy updates durring the passage of the [American Health Care Act](https://en.wikipedia.org/wiki/American_Health_Care_Act_of_2017#Comparison_between_ACA_and_AHCA)
-	
+
+## Vaccinations
+- Clients within 1 year of arrival can make vaccination appointments at [Harris County Public Health](http://publichealth.harriscountytx.gov/Services-Programs/Programs/RefugeeScreening)
+ 	- Harwin Outreach Center
+	- 7447 Harwin Drive, Suite 180 Houston, Texas 77036 
+	- Phone: (713) 274-2599
+	- Fax: (713) 437-4611
 ## Vision
 - OneSight Program
 
