@@ -197,4 +197,21 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 - Citizenship Classes
 - Pre-GED & GED Classes
 
+# Recreation
+## YMCA Memberships
+## Adaptive Sports
+
+[Metropolitan Multi-Service Center](http://www.houstontx.gov/parks/adaptivesports.html)
+According to Shaoli Bhadra
+> I was in a meeting this morning at this location in Montrose which is run by the city. It’s free and it’s basically a YMCA for people with physical disabilities. It was pretty great!
+
+> Designed for adults with physical disabilities, including visual impairments and blindness, who are able to function independently.
+> The facility is equipped with wheelchair accessible upper body weight equipment along with cardio machines to get your heart pumping. >  Pre-registration and a safety briefing are required before using this facility.
+- Ages: 16 & older
+- Time:	7:00 am -- 7:00 pm, M – Th; 7:00 am -- 4:00 pm, F
+- Address: 1475 West Gray
+- Phone: (832) 395-7333
+- Contact: hannah.walker@houstontx.gov
+
+
 (Did Sonia 832 706 7720 ever call her lawyer?)
