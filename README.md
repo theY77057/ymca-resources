@@ -86,6 +86,10 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 # Social Security
 ## Supplemental Security Income
 - Contact: andy.hardwick@ssa.gov
+- [form to designate a representative](https://www.ssa.gov/forms/ssa-1696.pdf)
+	- part I, check Title XVI (SSI)
+	- part II, check "I am a non-attorney not eligibile for direct payment", check no, check no
+	- part III, check "I am waiving fees from any source"
 # Transportation
 
 ## Medically Necessary Transportation
