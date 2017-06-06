@@ -1,6 +1,13 @@
 # Refugee Case Management Bulletin Board
 
-This is an open source bulletin board! To edit this, you'll need a [GitHub](https://github.com/) account. It's not too hard to use. Here's a [tutorial](https://guides.github.com/activities/hello-world/).
+- These are resources for Social Adjustment Services.
+- The links point to documents or websites. 
+- Sharing & Editing is encouraged! (Here's [instructions](#instructions-for-editing)).
+
+Here are frequently referenced sections
+- [Gold Card](#gold-card)
+- [Medical Transportation](#medically-necessary-transportation)
+- [Rental Assistance](#rental-assistance)
 
 # Health
 
@@ -29,7 +36,8 @@ This is an open source bulletin board! To edit this, you'll need a [GitHub](http
 	- [Frequently Asked Questions](http://refugees.org/wp-content/uploads/2017/02/Texas-Refugee-Medical-Assistance-Frequently-Asked-Questions.pdf)
 	- [Contact Sheet](materials/texas-rma-contacts.pdf)
 
-### [Harris Health Financial Assistance Program](https://www.harrishealth.org/en/patients/access-care/eligibility-card/pages/default.aspx)  (known colloquially as the "Gold Card") is a healthcare discount.
+### Gold Card
+The [Harris Health Financial Assistance Program](https://www.harrishealth.org/en/patients/access-care/eligibility-card/pages/default.aspx)  (known colloquially as the "Gold Card") is a healthcare discount.
 - Eligibility Office: 713 566 6509, dial 4 then 1 
 - [Harris Health Contact Information](https://www.harrishealth.org/en/contact-us/pages/default.aspx)
 - [Applications](https://www.harrishealth.org/SiteCollectionDocuments/eligibility/applicant-forms/English/application-instructions-english.pdf) are mailed to P.O. Box 300488 Houston TX 77230
@@ -217,5 +225,15 @@ According to Shaoli Bhadra
 - Phone: (832) 395-7333
 - Contact: hannah.walker@houstontx.gov
 
-
 (Did Sonia 832 706 7720 ever call her lawyer?)
+
+# Instructions for Editing
+
+This is an open source bulletin board!
+
+According to Linus Torvalds:
+> In open source, we feel strongly that to really do something well, you have to get a lot of people involved.
+
+To edit this, you'll need a [GitHub](https://github.com/) account. Here's a [tutorial](https://guides.github.com/activities/hello-world/). 
+
+The "branch" you edit will be uniquely your own, but you can sumbit a [pull request](https://help.github.com/articles/about-pull-requests/) to let me know about the changes you've made.
