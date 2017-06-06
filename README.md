@@ -214,18 +214,16 @@ The [Harris Health Financial Assistance Program](https://www.harrishealth.org/en
 ## Adaptive Sports
 
 [Metropolitan Multi-Service Center](http://www.houstontx.gov/parks/adaptivesports.html)
-According to Shaoli Bhadra
+> Designed for adults with physical disabilities, including visual impairments and blindness, who are able to function independently. The facility is equipped with wheelchair accessible upper body weight equipment along with cardio machines to get your heart pumping. Pre-registration and a safety briefing are required before using this facility.
+
+According to Shaoli Bhadra:
 > I was in a meeting this morning at this location in Montrose which is run by the city. It’s free and it’s basically a YMCA for people with physical disabilities. It was pretty great!
 
-> Designed for adults with physical disabilities, including visual impairments and blindness, who are able to function independently.
-> The facility is equipped with wheelchair accessible upper body weight equipment along with cardio machines to get your heart pumping. >  Pre-registration and a safety briefing are required before using this facility.
 - Ages: 16 & older
 - Time:	7:00 am -- 7:00 pm, M – Th; 7:00 am -- 4:00 pm, F
 - Address: 1475 West Gray
 - Phone: (832) 395-7333
 - Contact: hannah.walker@houstontx.gov
-
-(Did Sonia 832 706 7720 ever call her lawyer?)
 
 # Instructions for Editing
 
@@ -237,3 +235,5 @@ According to Linus Torvalds:
 To edit this, you'll need a [GitHub](https://github.com/) account. Here's a [tutorial](https://guides.github.com/activities/hello-world/). 
 
 The "branch" you edit will be uniquely your own, but you can sumbit a [pull request](https://help.github.com/articles/about-pull-requests/) to let me know about the changes you've made.
+
+(Did Sonia 832 706 7720 ever call her lawyer?)
