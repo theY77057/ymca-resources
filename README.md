@@ -4,7 +4,7 @@
 - The links point to documents or websites. 
 - Sharing & Editing is encouraged! (Here's [instructions](#instructions-for-editing)).
 
-Here are frequently referenced sections
+### Frequently Referenced Sections
 - [Gold Card](#gold-card)
 - [Medical Transportation](#medically-necessary-transportation)
 - [Rental Assistance](#rental-assistance)
