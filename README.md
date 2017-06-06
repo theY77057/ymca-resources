@@ -41,7 +41,7 @@ The [Harris Health Financial Assistance Program](https://www.harrishealth.org/en
 - Eligibility Office: 713 566 6509, dial 4 then 1 
 - [Harris Health Contact Information](https://www.harrishealth.org/en/contact-us/pages/default.aspx)
 - [Applications](https://www.harrishealth.org/SiteCollectionDocuments/eligibility/applicant-forms/English/application-instructions-english.pdf) are mailed to P.O. Box 300488 Houston TX 77230
-- The applications *require* many supporting documents.
+- The applications *require* many supporting documents (but *not* the Medicare assets form).
 	- proof of identity
 		- government issued photo ID
 	- proof of gross income (last 30 days)
