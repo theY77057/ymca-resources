@@ -94,10 +94,13 @@ The [Harris Health Financial Assistance Program](https://www.harrishealth.org/en
 # Social Security
 ## Supplemental Security Income
 - Contact: andy.hardwick@ssa.gov
-- [form to designate a representative](https://www.ssa.gov/forms/ssa-1696.pdf)
+- Here's the [Form to Designate a Representative](https://www.ssa.gov/forms/ssa-1696.pdf)
 	- part I, check Title XVI (SSI)
 	- part II, check "I am a non-attorney not eligibile for direct payment", check no, check no
 	- part III, check "I am waiving fees from any source"
+According to Andy Hardwick:
+> [The form has to] list all of the people from the Y who are authorized to speak for the claimant. If you are signing the 1696, then information about a particular case can only be released to you. You can fax the 1696 for [any client] and we will only release the information to you. 
+
 # Transportation
 
 ## Medically Necessary Transportation
