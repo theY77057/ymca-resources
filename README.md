@@ -5,6 +5,7 @@
 - Sharing & Editing is encouraged! (Here's [instructions](#instructions-for-editing)).
 
 ### Frequently Referenced Sections
+- [Clinic Maps](#primary-care-providers)
 - [Gold Card](#gold-card)
 - [Medical Transportation](#medically-necessary-transportation)
 - [Rental Assistance](#rental-assistance)
