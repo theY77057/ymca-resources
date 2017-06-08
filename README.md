@@ -1,12 +1,11 @@
 # Refugee Case Management Bulletin Board
 
-- These are resources for Social Adjustment Services.
-- The links point to documents or websites. 
-- Sharing & Editing is encouraged! (Here's [instructions](#instructions-for-editing)).
+These are resources for **Social Adjustment Services**. The links point to documents or websites. Sharing & [editing](#instructions-for-editing) is encouraged!
 
-### Frequently Referenced Sections
+**Popular Topics** 
 - [Clinic Maps](#primary-care-providers)
 - [Gold Card](#gold-card)
+- [Social Security Forms](#supplemental-security-income)
 - [Medical Transportation](#medically-necessary-transportation)
 - [Rental Assistance](#rental-assistance)
 
@@ -28,7 +27,6 @@
 	- [Amerigroup](https://www.myamerigroup.com/TX/Pages/star-plus.aspx), [Molina](http://www.molinahealthcare.com/members/tx/en-US/hp/medicaid/starplus/Pages/starplus.aspx), [UnitedHealthcare](http://www.uhccommunityplan.com/tx/medicaid/star_plus.html)
 - STAR Kids (disabled persons under 21 years old)
 	- [Amerigroup](https://myamerigroup.com/TX/Pages/star-kids.aspx), [Texas Children's](http://www.texaschildrenshealthplan.org/what-we-offer/star-kids), [UnitedHealthcare](http://www.uhccommunityplan.com/tx/medicaid/star_kids.html)
-![Map of STAR plans in Greater Harris County](materials/medicaid-harris.PNG)
 
 ### Refugee Medical Assistance (RMA)
 - Texas Health and Human Services no longer administers RMA.
