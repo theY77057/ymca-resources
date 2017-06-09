@@ -77,7 +77,18 @@ The [Harris Health Financial Assistance Program](https://www.harrishealth.org/en
 - OneSight Program
 
 ## Dental 
-- Low cost dental clinics
+According to Shaoli Bhadra:
+> Dr. Bishara is interested in helping refugees. His clinic will provide $35 exams and x-rays for YMCA clients. Clients can decide to pay for further dental care.
+
+- [Bishara Dental](http://bisharadental.com/about-us/)
+- 6060 Richmond Ave, # 210
+- Houston, TX 77057
+- Phone: (832) 767-3331
+- Fax: (832) 538-0343
+- Email: menabishara@bisharadental.com
+- Hours: Monday - Friday, 9:00am - 5:00pm
+	- Evening & Saturday appointments available
+
 
 ## Medical Bill Reconcilliation
 - template for calling
