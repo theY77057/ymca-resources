@@ -244,5 +244,3 @@ According to Linus Torvalds:
 To edit this, you'll need a [GitHub](https://github.com/) account. Here's a [tutorial](https://guides.github.com/activities/hello-world/). 
 
 The "branch" you edit will be uniquely your own, but you can sumbit a [pull request](https://help.github.com/articles/about-pull-requests/) to let me know about the changes you've made.
-
-(Did Sonia 832 706 7720 ever call her lawyer?)
