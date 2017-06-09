@@ -54,8 +54,8 @@
 	- Evidence of test (with results) and acceptance
   
 - What controls are around it?
-	  - Who reviews & signs off its output?
-	  - Reconciliation with data sources
+	- Who reviews & signs off its output?
+	- Reconciliation with data sources
 	
 - What checks are included within it?
 	- Cross-foot, balance checks, etc
