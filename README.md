@@ -111,12 +111,12 @@ Contact: andy.hardwick@ssa.gov
 	3. Part III, check "I am waiving fees from any source"
 	
 According to Andy Hardwick:
-> [Form SSA-1696 has to] list all of the people from the Y who are *authorized to speak for* the claimant. If you are signing the 1696, then information about a particular case can only be released to you. You can fax the 1696 for [any client] and we will only release the information to you.
+> [Form SSA-1696 has to] list all of the people from the Y who are *authorized to speak for* the claimant. If you are signing the 1696, then information about a particular case can only be released to you. You can **fax** the 1696 for [any client] and we will only release the information to you.
 
 - Here's [SSA-3288: Consent for Release of Information](https://www.ssa.gov/forms/ssa-3288.pdf) 
 
 According to Andy Hardwick:
-> If the individual completes form SSA-3288 designating an entity (such as Y International), SSA can then disclose information about that person’s case to any employee of the entity named on the 3288. This form is for *disclosure not representation.* 
+> If the individual completes form SSA-3288 designating an entity (such as Y International), SSA can then disclose information about that person’s case to any employee of the entity named on the 3288. This form is for *disclosure not representation.* [You can also **fax** the 3288.]
 
 # Transportation
 
