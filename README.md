@@ -175,7 +175,7 @@ According to Andy Hardwick:
 - Islamic Society of Greater Houston
 - Wheeler & First Baptist Church
 - [Gayl's Legacy Fund](http://www.pinkdoornonprofit.org/glfapplication/) (for women with cancer).
-- [Gulf Coast Community Services](www.gccsa.org)	
+- [Gulf Coast Community Services](http://www.gccsa.org)	
 	- Address: 9320 Kirby Dr.
 	- Phone: 713-393-4700
 	- Hours: M--F 8am--5pm
