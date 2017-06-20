@@ -121,11 +121,12 @@ According to Andy Hardwick:
 # Transportation
 
 ## Medically Necessary Transportation
-### MTM
+### MTM (needs attention)
 - Non Emergency Medical Transportation for *recipients of Medicaid*
 	- a healthcare provider *must* to complete a [statement of medical need](materials/statement-of-medical-need.pdf)
 	- You can use a [table in English](materials/calling-a-taxi-cheat-sheet.xlsx) or [Spanish](https://github.com/ColtonGrainger/ymca-resources/blob/master/materials/calling-a-taxi-cheat-sheet-spanish.xlsx) for the phone call.
 	- Phone: 855 687 4786
+	- DON'T TELL MTM if your client is going to Physical Therapy! (Tell them it's a primary care doctor or an orthopedic doctor.)
 
 ### METROLift
 - [Eligibility](http://www.ridemetro.org/Pages/MLEligibility.aspx)
