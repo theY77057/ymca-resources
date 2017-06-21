@@ -180,11 +180,31 @@ According to Andy Hardwick:
 - Islamic Society of Greater Houston
 - Wheeler & First Baptist Church
 - [Gayl's Legacy Fund](http://www.pinkdoornonprofit.org/glfapplication/) (for women with cancer).
-- [Gulf Coast Community Services](http://www.gccsa.org)	
-	- Address: 9320 Kirby Dr.
-	- Phone: 713-393-4700
-	- Hours: M--F 8am--5pm
 
+### [Gulf Coast Community Services](http://www.gccsa.org)
+An agency that provides rental and utility assistance.
+- Address: 9320 Kirby Dr.
+- Phone: 713-393-4700
+- Hours: M--F 8am--5pm
+1. Fill out the application.
+	1. The application *must include* everyone whose name is on the lease.
+2. Attached supporting documents (see [What Do I Need?](https://www.gccsa.org/wp-content/uploads/2017/04/2017-What-Do-I-Need_REV02.08.2017_Eng.pdf))
+	1. *all pages* of client's *current* signed lease agreement
+	2. for each working adult, consecutive paystubs for 30 days prior to date of application
+	3. proof of Unemployment Benefits, Supplemental Security Income (SSI) or Child Support payments, if applicable
+	4. if the household has SNAP, submit a 2017 Benefit Letter *dated, all pages* 
+	5. if an adult cannot provide proof of income, the household must complete: a [Declaration of Income Statement](https://www.gccsa.org/wp-content/uploads/2017/04/2017-Declaration-of-Income-Statement-DIS_REV02.07.17.pdf) (DIS) 
+3. Send a *scanned copy* of the application to [myapplication@gccsa.org[(mailto:myapplication@gccsa.org).
+4. Follow up in 2 weeks---the client needs to make an appointment for orientation:
+	- Call GCCSA  with the client (713 393 4700, dial opt 0) and wait.
+	- You'll talk to the front desk. The client needs to provide their name and date of birth.
+	- Orientations are held on certain days of the week. Get an appointment or find out which documents are missing.
+3. Go to orientation (it's a 45 minute class, followed by a discussion with a GCCSA case manager).
+	- Either provide a proof of late payment at the orientation or email the notice of late payment.
+4. Meet with a case manager the same day.
+	- On the first meeting with their case manager, clients qualify for emergency assistance and rental assistance in the full.
+	- If the client signs up for case management, then they qualify for a 2nd month's assistance.
+	- If the client completes 3 classes, then they qualify for a 3rd month's assistance.
 
 ## Shelters
 - Men's Shelters
