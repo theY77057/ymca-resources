@@ -67,8 +67,13 @@ The [Harris Health Financial Assistance Program](https://www.harrishealth.org/en
 - *Encourage your clients to live in Harris County.*
 
 ### Healthcare through the Affordable Care Act
-- HealthCare.gov (from the [Affordable Care Act](https://www.healthcare.gov/glossary/affordable-care-act/))
-	- be mindful of policy updates durring the passage of the [American Health Care Act](https://en.wikipedia.org/wiki/American_Health_Care_Act_of_2017#Comparison_between_ACA_and_AHCA)
+Healthcare through the [Affordable Care Act](https://www.healthcare.gov/glossary/affordable-care-act/) for individuals living between 100% FPL and 400% FPL (1 month turnaround).
+- You can [screen](https://www.healthcare.gov/screener/) your client to see if they're eligible.
+- You can complete an application online (90 minutes) or over the phone (3 hours and *very challenging*).
+	- These applications require almost as much information as an income tax return.
+	- You should enter each household member's social security number.
+	- Try to be as rigorous as possible about the people living in the household.
+- Be mindful of policy changes due to the [American Health Care Act](https://en.wikipedia.org/wiki/American_Health_Care_Act_of_2017#Comparison_between_ACA_and_AHCA). 
 
 ## Vaccinations
 - Clients within 1 year of arrival can make vaccination appointments at [Harris County Public Health](http://publichealth.harriscountytx.gov/Services-Programs/Programs/RefugeeScreening)
@@ -182,11 +187,11 @@ According to Andy Hardwick:
 - [Gayl's Legacy Fund](http://www.pinkdoornonprofit.org/glfapplication/) (for women with cancer).
 
 ### [Gulf Coast Community Services](http://www.gccsa.org)
-An agency that provides rental and utility assistance.
+An agency that provides rental and utility assistance (3--4 week turnaround). 
 - Address: 9320 Kirby Dr.
 - Phone: 713-393-4700
 - Hours: M--F 8am--5pm
-1. Fill out the application.
+1. Fill out the [application](https://www.gccsa.org/wp-content/uploads/2017/04/2017-Application-for-Services-_REV02.17.17_ENG_Website-Version-Only.pdf).
 	1. The application *must include* everyone whose name is on the lease.
 2. Attached supporting documents (see [What Do I Need?](https://www.gccsa.org/wp-content/uploads/2017/04/2017-What-Do-I-Need_REV02.08.2017_Eng.pdf))
 	1. *all pages* of client's *current* signed lease agreement
@@ -194,7 +199,7 @@ An agency that provides rental and utility assistance.
 	3. proof of Unemployment Benefits, Supplemental Security Income (SSI) or Child Support payments, if applicable
 	4. if the household has SNAP, submit a 2017 Benefit Letter *dated, all pages* 
 	5. if an adult cannot provide proof of income, the household must complete: a [Declaration of Income Statement](https://www.gccsa.org/wp-content/uploads/2017/04/2017-Declaration-of-Income-Statement-DIS_REV02.07.17.pdf) (DIS) 
-3. Send a *scanned copy* of the application to [myapplication@gccsa.org[(mailto:myapplication@gccsa.org).
+3. Send a *scanned copy* of the application to [myapplication@gccsa.org](mailto:myapplication@gccsa.org).
 4. Follow up in 2 weeks---the client needs to make an appointment for orientation:
 	- Call GCCSA  with the client (713 393 4700, dial opt 0) and wait.
 	- You'll talk to the front desk. The client needs to provide their name and date of birth.
