@@ -38,9 +38,13 @@ These are resources for **Social Adjustment Services**. The links point to docum
 ### Gold Card
 The [Harris Health Financial Assistance Program](https://www.harrishealth.org/en/patients/access-care/eligibility-card/pages/default.aspx)  (known colloquially as the "Gold Card") is a healthcare discount.
 - Eligibility Office: 713 566 6509, dial 4 then 1 
+	- Tips for the phone call:
+		- You'll probably talk to Troy, the supervisor.
+		- Ask for the application number and the eligibility counselor.
+		- Find out the [eligibility location](https://www.harrishealth.org/en/patients/access-care/eligibility-card/pages/eligibility-locations.aspx) that's handling the case.
 - [Harris Health Contact Information](https://www.harrishealth.org/en/contact-us/pages/default.aspx)
 - [Applications](https://www.harrishealth.org/SiteCollectionDocuments/eligibility/applicant-forms/English/application-instructions-english.pdf) are mailed to P.O. Box 300488 Houston TX 77230
-- The applications *require* many supporting documents (but *not* the Medicare assets form).
+- The applications *require* many supporting documents (but *not* the Medicare assets form). It's easiest to apply for single adults. If possible, include as few household members on the application as possible. For *every* household member, Harris Health will ask for a proof of familial relations---these documents can be tricky to locate in time if a client has a serious medical need. 
 	- proof of identity
 		- government issued photo ID
 	- proof of gross income (last 30 days)
