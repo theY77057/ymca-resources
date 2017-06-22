@@ -240,6 +240,11 @@ An agency that provides rental and utility assistance (3--4 week turnaround).
 		- Phone: 281 717 4670 
 		- Contact: Melissa
 
+## After Emergencies
+After a home-fire, Danielle Bolks, MSW suggests:
+> My thought is to reach out to the [Red Cross](http://www.redcross.org/get-help/prepare-for-emergencies/types-of-emergencies/fire/home-fire-recovery).
+The Red Cross has a large [emergency preparedness/response website](http://www.redcross.org/get-help/prepare-for-emergencies/types-of-emergencies/).
+
 # Nutrition
 ## Supplemental Nutritional Assistance Program
 - [SNAP](https://yourtexasbenefits.hhsc.texas.gov/programs/snap) (colloquially "Food Stamps") is a [federal program](https://www.fns.usda.gov/snap/supplemental-nutrition-assistance-program-snap) administered by Texas Health and Human Services.
