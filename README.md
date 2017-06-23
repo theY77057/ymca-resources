@@ -178,15 +178,14 @@ According to Andy Hardwick:
 		- *?hl=es* for Spanish
 		- *?hl=bn* for Bengali
 		
-# Housing
-## Rental Assistance
+# Rental Assistance
 - [Emergency Assistance Matrix](https://github.com/ColtonGrainger/ymca-resources/blob/master/materials/emergency-assistance.xlsx)
 - Society of St. Vincent de Paul
 - Islamic Society of Greater Houston
 - Wheeler & First Baptist Church
 - [Gayl's Legacy Fund](http://www.pinkdoornonprofit.org/glfapplication/) (for women with cancer).
 
-### [Gulf Coast Community Services](http://www.gccsa.org)
+## [Gulf Coast Community Services](http://www.gccsa.org)
 An agency that provides rental and utility assistance (3--4 week turnaround). 
 - Address: 9320 Kirby Dr.
 - Phone: 713-393-4700
@@ -211,34 +210,43 @@ An agency that provides rental and utility assistance (3--4 week turnaround).
 	- If the client signs up for case management, then they qualify for a 2nd month's assistance.
 	- If the client completes 3 classes, then they qualify for a 3rd month's assistance.
 
-## Shelters
-- Men's Shelters
-	- Star of Hope Men's Shelter & Development Center
-		- Address: 1811 Ruiz St, Houston, TX 77002
-		- Phone: 713 227 8900
-	- Salvation Army
-		- Address: 2407 N Main St, Houston, TX 77009
-		- Phone: 713 224 2875
-		- Hours: 8AM–4:30PM
-- Shelters for Hispanic Immigrants
-	- Casa Juan Diego
-		- Address: 4811 Lillian Street, Houston, TX 77007
-		- Phone: 713 869 7376
-		- Hours: 9AM–4PM
-- Domestic Violence Shelters
-	- [Shifa Women’s Center](http://shifausahouston.org/)
-		- Women and children (boys up to the age of 12)
-		- transitional shelter, 90 day max
-		- Phone: 713 981 7563
-		- Hours: Monday-Friday, 9AM-5PM
-		- Contact: Ashley Burnett
-		- Email: [aburnett.shifa@gmail.com](mailto:aburnett.shifa@gmail.com)
-- Cancer Care Centers
-	- [The Ballard House](https://www.theballardhouse.org/)
-		- [Application](https://www.theballardhouse.org/staying-with-us/apply-for-housing/)
-		- Address: 21421 Cinco Park Road Katy, Texas 77450
-		- Phone: 281 717 4670 
-		- Contact: Melissa
+# Shelter
+## Men's Shelters
+- Star of Hope Men's Shelter & Development Center
+	- Address: 1811 Ruiz St, Houston, TX 77002
+	- Phone: 713 227 8900
+- Salvation Army
+	- Address: 2407 N Main St, Houston, TX 77009
+	- Phone: 713 224 2875
+	- Hours: 8AM–4:30PM
+## Shelters for Hispanic Immigrants
+- Casa Juan Diego
+	- Address: 4811 Lillian Street, Houston, TX 77007
+	- Phone: 713 869 7376
+	- Hours: 9AM–4PM
+## Domestic Violence Shelters
+- [Houston Area Women's Center](https://www.hawc.org/en/shelter/) (HAWC)
+	- Who can access services?
+		- Victim/Survivors of Domestic Violence (women and men ages 18 and older)
+		- Victim/Survivors of Sexual Assault, Incest, Sexual Abuse, Sexual Harassment, Sex Trafficking (women and men, children 5-18).
+		- Victims of Dating Violence (pre-teens, teens, adults)
+		- Children who have witnessed domestic violence (ages 6-18)
+	- 120-bed shelter and residential facility 
+	- Phone: 713-528-2121 (HAWC Domestic Violence Hotline)
+	- Phone: 713-528-7273 (HAWC Sexual Assault Hotline)
+- [Shifa Women’s Center](http://shifausahouston.org/)
+	- Women and children (boys up to the age of 12)
+	- transitional shelter, 90 day max
+	- Phone: 713 981 7563
+	- Hours: Monday-Friday, 9AM-5PM
+	- Contact: Ashley Burnett
+	- Email: [aburnett.shifa@gmail.com](mailto:aburnett.shifa@gmail.com)
+## Cancer Care Centers
+- [The Ballard House](https://www.theballardhouse.org/)
+	- [Application](https://www.theballardhouse.org/staying-with-us/apply-for-housing/)
+	- Address: 21421 Cinco Park Road Katy, Texas 77450
+	- Phone: 281 717 4670 
+	- Contact: Melissa
 
 ## After Emergencies
 After a home-fire, Danielle Bolks, MSW suggests:
