@@ -241,7 +241,8 @@ An agency that provides rental and utility assistance (3--4 week turnaround).
 - [Shifa Women’s Center](http://shifausahouston.org/)
 	- Women and children (boys up to the age of 12)
 	- transitional shelter, 90 day max
-	- Phone: 713 981 7563
+	- Phone: 713 981 7563 (phone line disconnected as of 6/26/17, CCG)
+	- Alt Phone: 713 267 4000
 	- Hours: Monday-Friday, 9AM-5PM
 	- Contact: Ashley Burnett
 	- Email: [aburnett.shifa@gmail.com](mailto:aburnett.shifa@gmail.com)
