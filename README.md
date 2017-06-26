@@ -183,7 +183,11 @@ According to Andy Hardwick:
 - Society of St. Vincent de Paul
 - Islamic Society of Greater Houston
 - Wheeler & First Baptist Church
-- [Gayl's Legacy Fund](http://www.pinkdoornonprofit.org/glfapplication/) (for women with cancer).
+
+- Pink Door Non-Profit
+	- [Gayl's Legacy Fund](http://www.pinkdoornonprofit.org/glfapplication/) (for women with cancer).
+	- Email: grants@pinkdoornonprofit.org 
+	- Phone: (832) 727-3121
 
 ## [Gulf Coast Community Services](http://www.gccsa.org)
 An agency that provides rental and utility assistance (3--4 week turnaround). 
