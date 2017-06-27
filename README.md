@@ -241,7 +241,8 @@ An agency that provides rental and utility assistance (3--4 week turnaround).
 - [Shifa Women’s Center](http://shifausahouston.org/)
 	- Women and children (boys up to the age of 12)
 	- transitional shelter, 90 day max
-	- Phone: 713 981 7563 (phone line disconnected as of 6/26/17, CCG)
+	- Phone: 713 981 6060 (do not call 713 981 7563, it's disconnected) 
+> Due to disclosure, we had to change our number. Please call 713.981.6060 for future reference! We do have availability if the client is still in need of shelter. **Ashley Burnett**
 	- Alt Phone: 713 267 4000
 	- Hours: Monday-Friday, 9AM-5PM
 	- Contact: Ashley Burnett
@@ -263,10 +264,16 @@ The Red Cross has a large [emergency preparedness/response website](http://www.r
 - [SNAP](https://yourtexasbenefits.hhsc.texas.gov/programs/snap) (colloquially "Food Stamps") is a [federal program](https://www.fns.usda.gov/snap/supplemental-nutrition-assistance-program-snap) administered by Texas Health and Human Services.
 
 ## Food Pantries
-- ECHOS
-- GCCSA
 - [Houston Foodbank](http://www.houstonfoodbank.org/agency-locator/)
 	- *check the hours and call ahead*
+- ECHOS (Epiphany Community Health Outreach Services)
+	- Address: 9600 S Gessner Rd, Houston, TX 77071
+	- non-perishable food pantry MON--THU and 1st SAT of month
+	- phone: 713 270 0369
+	- fax: 713 270 0570
+	- email: echos@echos-houston.org
+- GCCSA
+
 - [Senior Box Program](http://www.houstonfoodbank.org/programs/senior-box-program/)
 	- [Eligibility](http://www.houstonfoodbank.org/media/93639/Senior%20Box%2012-9-13.pdf)
 	- [Locations](https://public.tableau.com/views/SeniorBoxLocationsforOlderAmericansMonth/Dashboard1?:embed=true&:display_count=no)
