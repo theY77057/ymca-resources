@@ -119,13 +119,10 @@ Contact: andy.hardwick@ssa.gov
 	2. Part II, check "I am a non-attorney not eligibile for direct payment", check no, check no
 	3. Part III, check "I am waiving fees from any source"
 	
-According to Andy Hardwick:
-> [Form SSA-1696 has to] list all of the people from the Y who are *authorized to speak for* the claimant. If you are signing the 1696, then information about a particular case can only be released to you. You can **fax** the 1696 for [any client] and we will only release the information to you.
+> [Form SSA-1696 has to] list all of the people from the Y who are *authorized to speak for* the claimant. If you are signing the 1696, then information about a particular case can only be released to you. You can **fax** the 1696 for [any client] and we will only release the information to you.  **Andy Hardwick**
 
 - Here's [SSA-3288: Consent for Release of Information](https://www.ssa.gov/forms/ssa-3288.pdf) 
-
-According to Andy Hardwick:
-> If the individual completes form SSA-3288 designating an entity (such as Y International), SSA can then disclose information about that person’s case to any employee of the entity named on the 3288. This form is for *disclosure not representation.* [You can also **fax** the 3288.]
+> If the individual completes form SSA-3288 designating an entity (such as Y International), SSA can then disclose information about that person’s case to any employee of the entity named on the 3288. This form is for *disclosure not representation.* [You can also **fax** the 3288.]  **Andy Hardwick**
 
 # Transportation
 
@@ -241,12 +238,13 @@ An agency that provides rental and utility assistance (3--4 week turnaround).
 - [Shifa Women’s Center](http://shifausahouston.org/)
 	- Women and children (boys up to the age of 12)
 	- transitional shelter, 90 day max
-	- Phone: 713 981 6060 (do not call 713 981 7563, it's disconnected) 
-> Due to disclosure, we had to change our number. Please call 713.981.6060 for future reference! We do have availability if the client is still in need of shelter. **Ashley Burnett**
+	- Phone: 713 981 6060 (*713 981 7563 is disconnected*) 
 	- Alt Phone: 713 267 4000
 	- Hours: Monday-Friday, 9AM-5PM
 	- Contact: Ashley Burnett
 	- Email: [aburnett.shifa@gmail.com](mailto:aburnett.shifa@gmail.com)
+> Due to disclosure, we had to change our number. Please call 713.981.6060 for future reference! We do have availability if the client is still in need of shelter.  **Ashley Burnett**
+	
 ## Cancer Care Centers
 - [The Ballard House](https://www.theballardhouse.org/)
 	- [Application](https://www.theballardhouse.org/staying-with-us/apply-for-housing/)
@@ -291,8 +289,7 @@ The Red Cross has a large [emergency preparedness/response website](http://www.r
 [Metropolitan Multi-Service Center](http://www.houstontx.gov/parks/adaptivesports.html)
 > Designed for adults with physical disabilities, including visual impairments and blindness, who are able to function independently. The facility is equipped with wheelchair accessible upper body weight equipment along with cardio machines to get your heart pumping. Pre-registration and a safety briefing are required before using this facility.
 
-According to Shaoli Bhadra:
-> I was in a meeting this morning at this location in Montrose which is run by the city. It’s free and it’s basically a YMCA for people with physical disabilities. It was pretty great!
+> I was in a meeting this morning at this location in Montrose which is run by the city. It’s free and it’s basically a YMCA for people with physical disabilities. It was pretty great!  **Shaoli Bhadra**
 
 - Ages: 16 & older
 - Time:	7:00 am -- 7:00 pm, M – Th; 7:00 am -- 4:00 pm, F
