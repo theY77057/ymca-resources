@@ -1,6 +1,8 @@
-# Refugee Case Management Bulletin Board
+# Case Management Bulletin Board
 
-These are resources for **Social Adjustment Services**. The links point to documents or websites. Sharing & [editing](#instructions-for-editing) is encouraged!
+*Notes, Resources, and Updates for Case Managers at the YMCA International Services.*
+
+Sharing & [editing](#instructions-for-editing) is encouraged!
 
 **Popular Topics** 
 - [Clinic Maps](#primary-care-providers)
