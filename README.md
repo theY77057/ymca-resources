@@ -182,6 +182,9 @@ Contact: andy.hardwick@ssa.gov
 - Society of St. Vincent de Paul
 - Islamic Society of Greater Houston
 - Wheeler & First Baptist Church
+- St. Francis de Sales Catholic Church
+	- Church Office: 713-774-7475
+	- Church Fax: 713-774-6591
 
 - Pink Door Non-Profit
 	- [Gayl's Legacy Fund](http://www.pinkdoornonprofit.org/glfapplication/) (for women with cancer).
