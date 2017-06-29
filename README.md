@@ -307,10 +307,11 @@ The Red Cross has a large [emergency preparedness/response website](http://www.r
 According to Linus Torvalds:
 > In open source, we feel strongly that to really do something well, you have to get a lot of people involved.
 
-To edit this, you'll need a [GitHub](https://github.com/) account. I've made two tutorials:
+To edit this, you'll need a [GitHub](https://github.com/) account. The "branch" you edit will be uniquely your own, but you can sumbit a [pull request](https://help.github.com/articles/about-pull-requests/) to let me know about the changes you've made.
+
+I've made two tutorials:
 - [Editing ymca-resources (part I)](https://www.youtube.com/watch?v=AuZ5eoJ7flE) 
 	- Learn how to make a GitHub account and fork the Bulletin Board for editing.
-- [Editing ymca-resources (part II)](https://www.youtube.com/watch?v=iMy5EDgoblk]
-	- Learn how to submit an edit to the master branch.
+- [Editing ymca-resources (part II)](https://www.youtube.com/watch?v=iMy5EDgoblk)
+	- Learn how to submit an pull request.
 
-The "branch" you edit will be uniquely your own, but you can sumbit a [pull request](https://help.github.com/articles/about-pull-requests/) to let me know about the changes you've made.
