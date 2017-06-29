@@ -5,20 +5,26 @@
 Sharing & [editing](#instructions-for-editing) is encouraged!
 
 **Popular Topics** 
+- [Shelters](#
 - [Clinic Maps](#primary-care-providers)
 - [Gold Card](#gold-card)
 - [Social Security Forms](#supplemental-security-income)
 - [Medical Transportation](#medically-necessary-transportation)
 - [Rental Assistance](#rental-assistance)
 
-# Health
+# Healthcare
 
-## Primary Care Providers
-- [PCP Map around YMCA International](https://drive.google.com/open?id=1kk9yn6-4nifHLIf2tGYbW_7PiYo&usp=sharing)
-- Agenda for discussion
-- Harris Health Locations
-- Legacy Community Locations 
-- Ibn Sina Clinic 
+## Primary Care Providers (PCPs)
+- Here's a [Map of Primary Care Providers](https://drive.google.com/open?id=1kk9yn6-4nifHLIf2tGYbW_7PiYo&usp=sharing) (share & edit!)
+
+### [Advice for PCP appointments](https://www.forbes.com/sites/amino/2016/03/12/how-to-make-every-minute-count-at-your-doctors-appointment/print/) 
+adapted from Sabrina Kang's 3/12/2016 *Forbes* article
+- **Prepare a list of questions** or “at least things [your client] wants to talk to the doctor about.”	
+- **Know [your client's] medications** or, even better, ask your client to bring them to the appointment. 
+- **Bring out the questions.** Tell the doctor that your client prepared a list of questions, and make sure to review it with them as soon as possible.
+- **Be honest.** If there’s a stressful thing happening at work or home that’s preventing [your client] from sticking to their medications, diet or exercise, *share that information.* 
+- **Figure out next steps.** Wrap up your appointment with an understanding of what your client need to do next. Repeat it aloud.
+- **Get a visit summary (and a copy of any referrals).** A written record or an after-visit summary makes it more likely that your client will get their concerns addressed by the next visit. It's also proof that your client is *actively* seeking treatment for their medical conditions.
 
 ## Healthcare Coverage
 ### [Medicaid](https://hhs.texas.gov/services/questions-about-your-benefits) is a [federal program](https://en.wikipedia.org/wiki/Medicaid) administered by Texas Health and Human Services.
