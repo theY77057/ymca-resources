@@ -17,7 +17,8 @@ Sharing & [editing](#instructions-for-editing) is encouraged!
 - [PCP Map around YMCA International](https://drive.google.com/open?id=1kk9yn6-4nifHLIf2tGYbW_7PiYo&usp=sharing)
 - Agenda for discussion
 - Harris Health Locations
-- Legacy Community Locations
+- Legacy Community Locations 
+- Ibn Sina Clinic 
 
 ## Healthcare Coverage
 ### [Medicaid](https://hhs.texas.gov/services/questions-about-your-benefits) is a [federal program](https://en.wikipedia.org/wiki/Medicaid) administered by Texas Health and Human Services.
