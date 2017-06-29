@@ -179,20 +179,9 @@ Contact: andy.hardwick@ssa.gov
 		- *?hl=bn* for Bengali
 		
 # Rental Assistance
-- [Emergency Assistance Matrix](https://github.com/ColtonGrainger/ymca-resources/blob/master/materials/emergency-assistance.xlsx)
-- Society of St. Vincent de Paul
-- Islamic Society of Greater Houston
-- Wheeler & First Baptist Church
-- St. Francis de Sales Catholic Church
-	- Church Office: 713-774-7475
-	- Church Fax: 713-774-6591
+If your client needs rental assistance, you should immediately apply at GCCSA. Then you should filter for "rent" on the [Emergency Assistance Matrix](https://github.com/ColtonGrainger/ymca-resources/blob/master/materials/emergency-assistance.xlsx) and contact agencies that serve your client's zip code.
 
-- Pink Door Non-Profit
-	- [Gayl's Legacy Fund](http://www.pinkdoornonprofit.org/glfapplication/) (for women with cancer).
-	- Email: grants@pinkdoornonprofit.org 
-	- Phone: (832) 727-3121
-
-## [Gulf Coast Community Services](http://www.gccsa.org)
+## [Gulf Coast Community Services Association](http://www.gccsa.org)
 An agency that provides rental and utility assistance (3--4 week turnaround). 
 - Address: 9320 Kirby Dr.
 - Phone: 713-393-4700
@@ -217,7 +206,27 @@ An agency that provides rental and utility assistance (3--4 week turnaround).
 	- If the client signs up for case management, then they qualify for a 2nd month's assistance.
 	- If the client completes 3 classes, then they qualify for a 3rd month's assistance.
 
+## Religious Organizations
+
+- Society of St. Vincent de Paul
+- Islamic Society of Greater Houston
+- Wheeler & First Baptist Church
+
+- St Francis de Sales Catholic Church
+	- They'll provide full rental assistance for clients in the zip code 77036
+	- Leave a voicemail for the [Society of St. Vincent de Paul](https://en.wikipedia.org/wiki/Society_of_Saint_Vincent_de_Paul) (2 week turnaround)
+	- SVDP Phone: 832 280 7837
+	- Church Office: 713-774-7475
+	- Church Fax: 713-774-6591
+	- If you want to complain, call Reverend Chris Unachukwu 713 774 7475 ext 102	
+- Pink Door Non-Profit
+	- [Gayl's Legacy Fund](http://www.pinkdoornonprofit.org/glfapplication/) 
+	- 3 months of financial assistance for women with cancer
+	- Email: grants@pinkdoornonprofit.org 
+	- Phone: (832) 727-3121
+
 # Shelter
+Here's a [shelter map](https://drive.google.com/open?id=1DlnGODIVZdoQ_O2P2CK_oXOZkZQ&usp=sharing) for sharing & editing.
 ## Men's Shelters
 - Star of Hope Men's Shelter & Development Center
 	- Address: 1811 Ruiz St, Houston, TX 77002
@@ -226,11 +235,19 @@ An agency that provides rental and utility assistance (3--4 week turnaround).
 	- Address: 2407 N Main St, Houston, TX 77009
 	- Phone: 713 224 2875
 	- Hours: 8AM–4:30PM
-## Shelters for Hispanic Immigrants
-- Casa Juan Diego
+	
+## for Hispanic Immigrants
+- [Casa Juan Diego](http://cjd.org/about/what-is-casa-juan-diego/)
 	- Address: 4811 Lillian Street, Houston, TX 77007
 	- Phone: 713 869 7376
 	- Hours: 9AM–4PM
+
+## Family Shelters
+- Salvation Army Family Residence
+	- Phone: 713 650-6530
+	- Address: 1603 McGowen, Houston, TX 77004
+	- Eligibility: Homeless women who have children. Walk-ins OK.
+	
 ## Domestic Violence Shelters
 - [Houston Area Women's Center](https://www.hawc.org/en/shelter/) (HAWC)
 	- Who can access services?
@@ -250,6 +267,11 @@ An agency that provides rental and utility assistance (3--4 week turnaround).
 	- Contact: Ashley Burnett
 	- Email: [aburnett.shifa@gmail.com](mailto:aburnett.shifa@gmail.com)
 > Due to disclosure, we had to change our number. Please call 713.981.6060 for future reference! We do have availability if the client is still in need of shelter.  **Ashley Burnett**
+- [The Montrose Center: Anti-Violence Program](http://www.montrosecenter.org/hub/services/avp/)
+	- Eligibility: Gay, Lesbian, and Bisexual (in same-sex relationships only) and Transgender Survivors of Domestic Violence
+	- Hotline: 713 529 3211 (the LGBT Switchboard of Houston)
+	- Phone: 713-529-0037
+	- Address: [701 Richmond Avenue, Houston, TX 77006](http://www.montrosecenter.org/hub/about/contacts/)
 	
 ## Cancer Care Centers
 - [The Ballard House](https://www.theballardhouse.org/)
