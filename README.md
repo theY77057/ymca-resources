@@ -124,7 +124,7 @@ An agency that provides rental and utility assistance (3--4 week turnaround).
 	- Church Office: 713-774-7475
 	- Church Fax: 713-774-6591
 	- If you want to complain, call Reverend Chris Unachukwu 713 774 7475 ext 102	
-- Pink Door Non-Profit
+- Pink Door Non-Profit (Out of funding 3rd quarter, July-September 2017)
 	- [Gayl's Legacy Fund](http://www.pinkdoornonprofit.org/glfapplication/) 
 	- 3 months of financial assistance for women with cancer
 	- Email: grants@pinkdoornonprofit.org 
