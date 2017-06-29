@@ -5,7 +5,7 @@
 Sharing & [editing](#instructions-for-editing) is encouraged!
 
 **Popular Topics** 
-- [Shelters](#
+- [Shelters](#shelter)
 - [Clinic Maps](#primary-care-providers)
 - [Gold Card](#gold-card)
 - [Social Security Forms](#supplemental-security-income)
@@ -111,11 +111,9 @@ An agency that provides rental and utility assistance (3--4 week turnaround).
 
 - [Islamic Society of Greater Houston](https://isgh.org/)
 	- E-mail: [info@isgh.org](info@isgh.org) (inquiries) or [zakat@isgh.org](mailto:zakat@isgh.org) (charity)
-	- Phone:  713 524 6615
+	- Contact: April Bowerman, 713 524 6615, Admin Assistant
+	- Contact: Bibi Khan, 832 296 3433, President of An Nisa' Hope Center
 	- Fax: 713 524 2045
-	- Contact: April Bowerman, Admin Assistant
-	- Contact: Bibi Khan, President of An Nisa' Hope Center
-
 	
 - Wheeler & First Baptist Church
 
